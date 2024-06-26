@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ShopVehicleDataArray>
+  <Vehicles>
+	<Item>
+	  <lockHash>CU_VEH_CASTIGATOR</lockHash>
+	  <modelNameHash>castigator</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>CASTIGATOR</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_COQUETTE5</lockHash>
+	  <modelNameHash>coquette5</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>COQUETTE5</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DOMINATOR10</lockHash>
+	  <modelNameHash>dominator10</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DOMINATOR10</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTCYPHER</lockHash>
+	  <modelNameHash>driftcypher</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTCYPHER</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTNEBULA</lockHash>
+	  <modelNameHash>driftnebula</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTNEBULA</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTSENTINEL</lockHash>
+	  <modelNameHash>driftsentinel</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTSENTINEL</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_DRIFTVORSCHLAG</lockHash>
+	  <modelNameHash>driftvorschlag</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>DRIFTVORSCHLAG</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_ENVISAGE</lockHash>
+	  <modelNameHash>envisage</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>ENVISAGE</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_EUROSX32</lockHash>
+	  <modelNameHash>eurosx32</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>EUROSX32</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_NIOBE</lockHash>
+	  <modelNameHash>niobe</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>NIOBE</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_PARAGON3</lockHash>
+	  <modelNameHash>paragon3</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>PARAGON3</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_PIPISTRELLO</lockHash>
+	  <modelNameHash>pipistrello</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>PIPISTRELLO</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_PIZZABOY</lockHash>
+	  <modelNameHash>pizzaboy</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>PIZZABOY</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLICET3</lockHash>
+	  <modelNameHash>policet3</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLICET3</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLDOMINATOR10</lockHash>
+	  <modelNameHash>poldominator10</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLDOMINATOR10</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLDORADO</lockHash>
+	  <modelNameHash>poldorado</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLDORADO</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLGREENWOOD</lockHash>
+	  <modelNameHash>polgreenwood</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLGREENWOOD</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLIMPALER5</lockHash>
+	  <modelNameHash>polimpaler5</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLIMPALER5</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_POLIMPALER6</lockHash>
+	  <modelNameHash>polimpaler6</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>POLIMPALER6</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_VORSCHLAGHAMMER</lockHash>
+	  <modelNameHash>vorschlaghammer</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>VORSCHLAGHAMMER</textLabel>
+	  <vehicleMods />
+	</Item>
+	<Item>
+	  <lockHash>CU_VEH_YOSEMITE1500</lockHash>
+	  <modelNameHash>yosemite1500</modelNameHash>
+	  <cost value="100"/>
+	  <textLabel>YOSEMITE1500</textLabel>
+	  <vehicleMods />
+	</Item>
+  </Vehicles>	
+</ShopVehicleDataArray>

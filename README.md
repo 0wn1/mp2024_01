@@ -3,7 +3,7 @@
 
 ### Vehicle List
 ```lua
--- 'model', -- Name | Classe | Manufacturer
+-- 'Model', -- Name | Class | Manufacturer
 'castigator', -- Castigator | SUVs | CANIS
 'coquette5', -- Coquette D1 | Sports Classics | INVERTO
 'dominator10', -- Dominator FX | Muscle | VAPID
